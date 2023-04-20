@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'websiteiot4Victor'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DAEFE4501BAD4283A052906B2EF5A725 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B4AA9B3A08AE471287F7BB76A0A19607 }}
           package: .
